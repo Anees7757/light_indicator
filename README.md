@@ -2,7 +2,7 @@
 
 Light Indicator is a Flutter widget designed to display a row of indicators, commonly used to indicate the current position within a series of screens or pages. This widget allows for easy customization of the appearance and behavior of the indicators, making it suitable for various applications and UI designs.
 
-<img height="300" src="https://raw.githubusercontent.com/Anees7757/light_toast/master/assets/images/img1.png" alt=""/>
+<img height="300" src="https://raw.githubusercontent.com/Anees7757/light_indicator/master/assets/images/img1.png" alt=""/>
 
 
 ## Features
