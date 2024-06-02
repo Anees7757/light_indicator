@@ -6,7 +6,7 @@ Light Indicator is a Flutter widget designed to display a row of indicators, com
 
 
 ## Features
-- Flexible Configuration: Customize the number of indicators, their colors, widths, heights, margins, border radii, and animation duration.
+- Flexible Configuration: Customize the number of indicators, their colours, widths, heights, margins, border radius, and animation duration.
 - Dynamic Appearance: Indicators dynamically adjust their appearance based on the current active index.
 - Smooth Animation: Smooth animation when transitioning between different active indices.
 - Seamless Integration: Easily integrate into your Flutter applications and UI layouts.
